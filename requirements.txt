@@ -1,0 +1,4 @@
+requests>=2.31.0
+mcp-server>=0.1.0  # Replace with actual version
+typing-extensions>=4.7.0
+python-dotenv>=1.0.0  # For loading API key from environment
