@@ -87,3 +87,17 @@ The generated zip file includes the built Ghidra plugin and its resources. These
 - lib/GhidraMCP.jar
 - extensions.properties
 - Module.manifest
+
+# Changelog
+
+## v1.1.0 (2025-03-25)
+- Added support for searching functions by name
+- Improved error handling in HTTP responses
+- Fixed pagination issues in listing methods
+- Added better documentation for MCP clients
+
+## v1.0.0 (Initial Release)
+- Core Ghidra plugin functionality
+- MCP server implementation
+- Basic function and data renaming
+- Method, class, import, and export listing
